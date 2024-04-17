@@ -299,7 +299,7 @@ var APP_DATA = {
   "settings": {
     "mouseViewMode": "qtvr",
     "autorotateEnabled": true,
-    "fullscreenButton": false,
+    "fullscreenButton": true,
     "viewControlButtons": false
   }
 };
